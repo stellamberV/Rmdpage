@@ -1,9 +1,15 @@
 name: "Stella-website"
 output_dir: "."
 navbar:
-  title: "Stella's Website"
+  title: "Qianhui Wan"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+    
+#output:
+#  html_document:
+#  theme: flatly

@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Qianhui Wan
+- __Ocupation:__ senior undergraduate in applied math
+- __Institution:__ "University of Wisconsin-Madison (US), University of Sun Yat-sen University (P.R.China)"
+- __Hobbies:__ Music (classic, blues and R&B), cello, piano; traveling; programming.
+
+
+ 
