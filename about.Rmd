@@ -1,11 +1,16 @@
 ---
-title: "About Me"
+title: ''
 ---
 
 - __Name:__ Qianhui Wan
 - __Ocupation:__ senior undergraduate in applied math
+- __Direction:__ Applied math, computational genetics
 - __Institution:__ "University of Wisconsin-Madison (US), University of Sun Yat-sen University (P.R.China)"
 - __Hobbies:__ Music (classic, blues and R&B), cello, piano; traveling; programming.
+- __Github page:__ @stellamberV (https://github.com/stellamberV/)
+- __Lab page:__ [Shen Group](url: http://shen.se/) (PI: Dr.Xia SHEN) 
+
+
 
 
  

@@ -1,14 +1,18 @@
-name: "Stella-website"
+# name: "Stella-website"
 output_dir: "."
 navbar:
   title: "Qianhui Wan"
   left:
-    - text: "Home"
+    - text: "Life"
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "Projects"
-      href: projects.html
+    - text: "CV"
+      href: cv.html
+    #- text: "Projects"
+    #  href: projects.html
+    - contact: "Contacts"
+      href: contact.html
     
 #output:
 #  html_document:
